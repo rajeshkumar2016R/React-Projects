@@ -1,0 +1,28 @@
+.nav{
+    color: white;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5rem;
+}
+.logo{
+    font-size: 30px;
+    font-weight: 600;
+}
+.nav-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+li{
+    margin-inline: 20px;
+    cursor: pointer;
+
+}
+.contact{
+    background-color: white;
+    color: black;
+    padding: 8px 30px;
+    border-radius: 20px;
+}

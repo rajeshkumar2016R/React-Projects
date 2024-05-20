@@ -1,0 +1,31 @@
+.hero {
+  color: white;
+  font-size: 60px;
+  display: flex;
+  height: 440px;
+  padding: 2rem 6rem;
+  justify-content: space-between;
+}
+.hero-dot-play {
+  display: flex;
+}
+.hero-dot {
+  display: flex;
+  align-items: center;
+}
+.orange {
+  color: orangered;
+}
+.hero-play {
+  display: flex;
+  align-items: center;
+  padding-top: 30rem;
+}
+.hero-play img {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+}
+.hero-play p {
+  font-size: 20px;
+}
